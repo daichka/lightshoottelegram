@@ -1,7 +1,7 @@
 import os,requests,random,math,time,telebot
 
 
-bot = telebot.TeleBot('1672552246:AAE7W_GmajJKxb6qn250O7Gc7KPJhwU03D0')
+bot = telebot.TeleBot('')
 keyboard1 = telebot.types.ReplyKeyboardMarkup(True, True)
 keyboard1.row('кинь')
 
